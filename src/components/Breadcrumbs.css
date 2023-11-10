@@ -1,4 +1,3 @@
-/* breadcrumbs */
 .breadcrumbs {
   max-width: 1200px;
   margin: 20px auto;
@@ -8,7 +7,7 @@
   margin-right: 10px;
 }
 .breadcrumbs .crumb:after {
-  content: ">";
+  content: '>';
   margin-left: 10px;
 }
 .breadcrumbs .crumb:last-child:after {
