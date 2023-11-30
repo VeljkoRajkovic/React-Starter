@@ -4,6 +4,8 @@
   "private": true,
   "dependencies": {
     "@babel/preset-react": "^7.23.3",
+    "@tanstack/react-query": "^5.8.9",
+    "@tanstack/react-query-devtools": "^5.10.0",
     "@testing-library/jest-dom": "^6.1.4",
     "@testing-library/user-event": "^14.5.1",
     "@types/node": "^16.18.61",
@@ -49,6 +51,7 @@
   },
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@tanstack/eslint-plugin-query": "^5.8.4",
     "@testing-library/react": "^14.1.0",
     "eslint": "^8.53.0",
     "eslint-plugin-import": "^2.29.0",
